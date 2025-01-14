@@ -23,7 +23,7 @@ RUN zypper --non-interactive install --no-recommends \
   git \
   hostname \
   which \
-  "rubygem(ruby:3.3.0:yast-rake)" \
+  "rubygem(ruby:3.4.0:yast-rake)" \
   osc \
   obs-service-format_spec_file \
   obs-service-source_validator \
